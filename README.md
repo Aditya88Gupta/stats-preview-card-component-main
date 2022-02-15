@@ -18,4 +18,4 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://aditya88gupta.github.io/stats-preview-card-component-main/)
+- Live Site URL: [Live site URL here](https://aditya88gupta.github.io/stats-preview-card-component-main/)
